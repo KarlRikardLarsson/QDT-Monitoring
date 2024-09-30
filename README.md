@@ -40,6 +40,11 @@ Ange de filer som ska exkluderas från automationen. Dessa filer kommer att hopp
 Välj hur ofta applikationen ska köras. Rekommenderar en gång om dagen.
 ![image](https://github.com/user-attachments/assets/25df34b3-ddee-4c86-b217-451a15668640)
 
+### Steg 6
+Konfigurera SMTP på mejlblock (2st!)
+![image](https://github.com/user-attachments/assets/b528bc34-af97-486b-af17-d2616a7c5a15)
+
+
 
 ---
 
