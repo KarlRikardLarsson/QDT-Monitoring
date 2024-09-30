@@ -1,7 +1,7 @@
 # QDT-Monitoring
 Ett verktyg som kontrollerar om QVD-filer är uppdaterade under dagens datum. Perfekt för användare av QDT eller liknande system som behöver övervaka filuppdateringar.
 
-![image](https://github.com/user-attachments/assets/cbf0b3e0-aa0a-4387-b2a7-dc5c38cd96cb)
+![image](https://github.com/user-attachments/assets/72991ed3-a86a-4c31-9dd6-3f3b134778fc)
 
 ## Innehållsförteckning
 1. [Info](#info)
